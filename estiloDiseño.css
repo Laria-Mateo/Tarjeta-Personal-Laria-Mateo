@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background: url('miFonndo2.jpg')no-repeat;
+    background-size: cover;
+    font-family: 'Century Gothic',sans-serif;
+
+    
+}
+.box{
+    width: 1000px;
+    background: rgba(0, 0, 0, .4);
+    margin: 0 auto;
+    margin-top: 4%;
+    padding:20px;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+}
+.box-img{
+    border-radius: 50%;
+
+}
+.box .h1Principal{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    margin: 30px 0 20px;
+
+}
+.box .h2hobbies{
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin-bottom: 20px;
+
+}
+.box p{
+    text-align: justify;
+    text-align: center;
+    
+}
+.box ul{
+    margin: 0px;
+    padding: 0px;
+    
+} 
+.box .lista-hobbies{
+   
+ 
+    text-align: center;
+    box-sizing: border-box;
+    margin: 20px;
+    padding: 0px;
+    list-style: none;
+    display: inline-block;
+
+}
+.box .iconos .lista-iconos a{
+    color: white;
+    font-size: 45px;
+    padding: 10px 5px;
+    
+    
+}
+.box .lista-iconos{
+    display: inline-block;
+    margin: 50px;
+    margin-top: 10px;
+}
+.box .texto1{
+    font-size: 20px;s
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
